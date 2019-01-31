@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="64726" started-at="2018-11-12T13:53:30Z" finished-at="2018-11-12T13:54:35Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="64726" started-at="2018-11-12T13:53:30Z" finished-at="2018-11-12T13:54:35Z">
+      <class name="searchTests.SearchTestCountryUS">
+        <test-method status="PASS" signature="setUp()[pri:0, instance:searchTests.SearchTestCountryUS@1d8ba08]" name="setUp" is-config="true" duration-ms="17161" started-at="2018-11-12T13:53:30Z" finished-at="2018-11-12T13:53:48Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="SearchBOM_US(java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:searchTests.SearchTestCountryUS@1d8ba08]" name="SearchBOM_US" duration-ms="43753" started-at="2018-11-12T13:53:48Z" data-provider="getBOMData" finished-at="2018-11-12T13:54:31Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[sqa_test4]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Arthrex2345]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[English]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[AR-1005S]]>
+              </value>
+            </param>
+            <param index="4">
+              <value>
+                <![CDATA[AR-1005S]]>
+              </value>
+            </param>
+            <param index="5">
+              <value>
+                <![CDATA[AR-1005]]>
+              </value>
+            </param>
+            <param index="6">
+              <value>
+                <![CDATA[DRIVER, STAPLE]]>
+              </value>
+            </param>
+            <param index="7">
+              <value>
+                <![CDATA[1]]>
+              </value>
+            </param>
+            <param index="8">
+              <value>
+                <![CDATA[AR-1005E]]>
+              </value>
+            </param>
+            <param index="9">
+              <value>
+                <![CDATA[ELEVATOR FOR STAPLES REMOVAL]]>
+              </value>
+            </param>
+            <param index="10">
+              <value>
+                <![CDATA[1]]>
+              </value>
+            </param>
+            <param index="11">
+              <value>
+                <![CDATA[AR-1005H]]>
+              </value>
+            </param>
+            <param index="12">
+              <value>
+                <![CDATA[SLAP HAMMER/EXTRACTOR]]>
+              </value>
+            </param>
+            <param index="13">
+              <value>
+                <![CDATA[1]]>
+              </value>
+            </param>
+            <param index="14">
+              <value>
+                <![CDATA[AR-1010]]>
+              </value>
+            </param>
+            <param index="15">
+              <value>
+                <![CDATA[STAPLE SEATING PUNCH]]>
+              </value>
+            </param>
+            <param index="16">
+              <value>
+                <![CDATA[1]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- SearchBOM_US -->
+        <test-method status="PASS" signature="afterMethod(org.testng.ITestResult)[pri:0, instance:searchTests.SearchTestCountryUS@1d8ba08]" name="afterMethod" is-config="true" duration-ms="2001" started-at="2018-11-12T13:54:31Z" finished-at="2018-11-12T13:54:33Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=SearchBOM_US status=SUCCESS method=SearchTestCountryUS.SearchBOM_US(java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:searchTests.SearchTestCountryUS@1d8ba08] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+        <test-method status="PASS" signature="afterClass()[pri:0, instance:searchTests.SearchTestCountryUS@1d8ba08]" name="afterClass" is-config="true" duration-ms="1699" started-at="2018-11-12T13:54:33Z" finished-at="2018-11-12T13:54:35Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterClass -->
+      </class> <!-- searchTests.SearchTestCountryUS -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
